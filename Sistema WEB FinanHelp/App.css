@@ -1,0 +1,14 @@
+html,
+body {
+  height: 100%;
+  width: 100%;
+  background-color: #121214;
+  display:grid;
+}
+
+* {
+  margin: 0rem;
+  padding: 0rem;
+  box-sizing: border-box;
+  
+}

@@ -1,0 +1,352 @@
+@media screen and (max-width: 622px) {
+  header .containerh {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #202024;
+    height: 80px;
+    width: 100wh;
+
+  }
+
+
+  header .containerh .nomeph .nomeh .imageh {
+    width: 80%;
+    height: 80%;
+    margin-left: 5px;
+    margin-right: 10px;
+    justify-content: center;
+    align-self: center;
+
+  }
+
+  header .containerh .nomeph {
+    display: flex;
+    flex-direction: row;
+    padding-left: 1%;
+    height: 80%;
+    margin-top: 1%;
+
+  }
+
+  header .containerh .nomeph .nomeh {
+    display: flex;
+    flex-direction: row;
+    padding-left: 1%;
+    height: 80%;
+
+  }
+
+  header .containerh .nomeph .nomeh .logo1h {
+    color: #1FA49C;
+    align-self: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 120%;
+    justify-content: center;
+  }
+
+  header .containerh .nomeph .nomeh .logo2h {
+    color: #91209B;
+    align-self: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 120%;
+    justify-content: center;
+  }
+
+  header .containerh .loginh {
+    display: flex;
+    flex-direction: row;
+    width: 75%;
+  }
+
+  header .loginh h2 {
+    display: flex;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+    width: 60%;
+    margin-left: 20px;
+    align-self: center;
+    margin-right: -4%;
+
+  }
+
+  header .loginh .buttonLogin {
+
+    background: #202024;
+    border: 1px solid #1FA49C;
+    border-radius: 30px;
+    height: 30px;
+    width: 165%;
+    align-self: center;
+    justify-content: center;
+  }
+
+  header .loginh button:hover {
+    background-color: #91209B;
+  }
+
+  header .loginh button p {
+    justify-content: center;
+    color: #1FA49C;
+    font-size: 100%;
+
+  }
+
+
+  /*CORPO*/
+
+  /*parte 1*/
+  .part1 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding-top: 30%;
+    background-color: #121214;
+    max-width: 366px;
+
+
+  }
+
+  .part1 .imgpt1 {
+    width: 45%;
+    align-self: center;
+  }
+
+  .part1 .lado {
+    align-self: center;
+    width: 140%;
+    margin-left: -20px;
+  }
+
+  .part1 .paianun {
+    align-self: center;
+
+  }
+
+  .part1 .lado .paianun .anun {
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 90%;
+
+
+  }
+
+  .part1 .nome {
+    display: flex;
+    flex-direction: row;
+    height: 50px;
+    justify-content: center;
+    margin-top: -5%;
+  }
+
+  .part1 .logo1 {
+    color: #1FA49C;
+    align-self: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 110%;
+  }
+
+  .part1 .logo2 {
+    color: #91209B;
+    align-self: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 110%;
+  }
+
+  .part1 h2.anun1 {
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: -5%;
+    font-size: 90%;
+  }
+
+
+
+  .part1 button {
+    margin-top: -10%;
+    background: #202024;
+    border: 1px solid #1FA49C;
+    border-radius: 30px;
+    height: 30px;
+    width: 140%;
+    align-self: center;
+    margin-left: -20%;
+
+  }
+
+  .part1 button:hover {
+    background-color: #91209B;
+  }
+
+  .part1 button p {
+    color: #1FA49C;
+    align-self: center;
+  }
+
+  /*parte 2*/
+
+  .part2 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-top: 90%;
+  }
+
+  .part2 .imagens {
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+  }
+
+  .part2 .bloco1 {
+    align-self: center;
+    margin-left: 0%;
+    margin-right: 0px;
+  }
+
+  .part2 .bloco1 h2 {
+    color: #fff;
+    padding-right: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 10px;
+    text-align: center;
+    font-size: 100%;
+  }
+
+  .part2 .bloco1 .imagens {
+    margin-left: 5%;
+
+  }
+
+  .part2 .bloco1 .imgpt1 {
+    max-width: 25%;
+    padding-left: 10px;
+    padding-right: 10px;
+    align-self: center;
+  }
+
+
+  .part2 .bloco2 {
+    align-self: center;
+    margin-right: 0%;
+  }
+
+  .part2 .bloco2 h2 {
+    color: #fff;
+    padding-right: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 10px;
+    text-align: center;
+    font-size: 100%;
+  }
+
+  .part2 .bloco2 .imgpt2 {
+    max-width: 30%;
+    padding-left: 10px;
+    padding-right: 10px;
+    align-self: center;
+  }
+
+  /*parte 3*/
+
+  .part3 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 90%;
+    flex-direction: column;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-block-end: 10%;
+  }
+
+  .part3 .text{
+    margin-top: 10%;
+  }
+
+  .part3 .text h1 {
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 100%;
+  }
+
+  /*parte cima*/
+  .part3 .img1 {
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+
+  }
+
+
+  .part3 .img1 .imgpt3 {
+    max-width: 10%;
+    max-height: 10%;
+    transform: rotate(15deg);
+    margin-top: 10%;
+    margin-block-end: -10%;
+
+  }
+
+  .part3 .img1 .imgpt31 {
+    max-width: 10%;
+    max-height: 10%;
+    margin-top: -10%;
+    margin-block-end: 10%;
+    margin-right: 0px;
+    margin-left: 0px;
+
+  }
+
+  .part3 .img1 .imgpt32 {
+    max-width: 10%;
+    max-height: 10%;
+    transform: rotate(-20deg);
+    margin-top: 10%;
+    margin-block-end: -10%;
+  }
+
+  /*parte baixo*/
+  .part3 .img2 {
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    margin-top: -28%;
+  }
+
+  .part3 .img2 .imgpt33 {
+    max-width: 10%;
+    max-height: 10%;
+    transform: rotate(-25deg);
+    padding-top: 10%;
+    margin-right: 0%;
+
+  }
+
+  .part3 .img2 .imgpt34 {
+    max-width: 10%;
+    max-height: 10%;
+    transform: rotate(26deg);
+    padding-top: 10%;
+
+  }
+
+
+
+
+}
+
+
+@media screen and (max-width: 1000px) {
+  .descricao {
+    width: 50%;
+  }
+
+}

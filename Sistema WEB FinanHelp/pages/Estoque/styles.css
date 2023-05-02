@@ -1,0 +1,105 @@
+
+header .containerp {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: #202024;
+  height: 80px;
+  width: 100%;
+
+}
+
+
+header .imagep {
+  max-width: 50px;
+  max-height:100px;
+  margin-left: 5px;
+  margin-right: 10px;
+
+}
+header .nomepp{
+  display: flex;
+  flex-direction: row;
+  padding-left: 1%;
+  height: 80%;
+  margin-top: 1%;
+ 
+}
+header .nomep {
+  display: flex;
+  flex-direction: row;
+  padding-left: 1%;
+  max-height: 50px;
+}
+
+header .logo1p {
+  color: #1FA49C;
+  align-self: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+header .logo2p {
+  color: #91209B;
+  align-self: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+header .Iconesp {
+  display: flex;
+  padding-right: 1%;
+  flex-direction: row;
+
+}
+
+header .relatorio{
+  display: flex;
+  align-self: center;
+}
+header .estoque{
+  display: flex;
+  align-self: center;
+}
+
+header .icon1p {
+  display: flex;
+  max-width: 40px;
+  margin-right: 1rem;
+  align-self: center;
+}
+
+header .icon2p{
+  display: flex;
+  max-width: 40px;
+  margin-right: 2rem;
+  align-self: center;
+
+}
+
+header .text{
+  display: flex;
+  color:aliceblue;
+  font-size: 10px;
+  align-self: center;
+}
+  /*CORPO*/
+
+#home-container {
+    display: flex;
+    padding: 0px 100px;
+    flex-wrap: wrap;
+    margin-top: 50px;
+}
+
+
+.add{
+  position:fixed;
+  right:0;
+  bottom:0;
+  display:block;
+  cursor:pointer;
+  z-index:9999999;
+  float:right;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  max-width: 50px;
+}
