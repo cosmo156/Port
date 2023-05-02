@@ -1,9 +1,0 @@
-@media screen and (max-width: 622px) {
-    main {
-        display: flex;
-        background-color: #000;
-        width: 100%;
-        height: 100%;
-
-    }
-}
