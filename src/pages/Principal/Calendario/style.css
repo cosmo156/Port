@@ -1,0 +1,47 @@
+
+
+.css-hlj6pa-MuiDialogActions-root {
+  display: none !important;
+}
+
+.css-1eurbeq-MuiPickersToolbar-root-MuiDatePickerToolbar-root {
+  display: none !important;
+}
+
+.css-144dnr3-MuiBadge-badge {
+  margin-top: 30%;
+  margin-right: 35%;
+  color: rgb(40, 158, 40);
+  size: 50px;
+
+}
+.css-3eghsz-PrivatePickersYear-button.Mui-selected {
+  color: #fff;
+  background-color: #48c267;
+}
+.css-1vcokmn-MuiCalendarOrClockPicker-root {
+  background-color: rgb(0, 0, 0);
+}
+.css-dplwbx-MuiPickersCalendarHeader-label {
+  color:rgb(240, 240, 240);
+  font-size: large;
+}
+.css-14uwzz2-PrivatePickersYear-root {
+  color:#FFF;
+
+}
+.css-1tkx1wf-MuiSvgIcon-root-MuiPickersCalendarHeader-switchViewIcon {
+  color:#FFF;
+}
+.css-118r9cm-MuiSvgIcon-root-MuiPickersCalendarHeader-switchViewIcon {
+  color:#FFF;
+}
+.css-i4bv87-MuiSvgIcon-root {
+  color:#FFF;
+}
+
+span.MuiTypography-root.MuiTypography-caption.MuiDayPicker-weekDayLabel.css-raiqh1-MuiTypography-root-MuiDayPicker-weekDayLabel {
+  color: #91209B;
+  font-weight: bold;
+  font-size: 20px;
+}

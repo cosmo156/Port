@@ -1,0 +1,43 @@
+@media screen and (max-width: 722px) {
+
+.visu{ 
+    width: 100%;
+    height: 100%;
+    padding-bottom: 320px;
+    
+    
+}
+
+.visualizar-container{
+    display: wrap;
+    flex-direction: column;
+    margin-top: 100px;
+    padding-left: 50px;
+    padding-right: 50px;
+    width: 400px;
+    margin-bottom: 40px;
+}
+.image{
+    display: flex;
+    width: 350px;
+    max-height: 350px;
+    border-radius: 10px;
+    align-self: center;
+   
+}
+
+#visualizar-info{
+    display: flex;
+    flex-direction: column;
+    background-color: #202024;
+    margin-left: 0px;
+    margin-top: 50px;
+    width: 350px;
+    max-height: 350px;
+    align-self: center;
+    
+    
+}
+
+
+}
